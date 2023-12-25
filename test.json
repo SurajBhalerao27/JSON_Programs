@@ -1,0 +1,24 @@
+[
+    {
+        "Songs": {
+            "title": "MeriAshiqui",
+            "singer": "Suraj"
+        },
+        "poms": {
+            "daily_Routine": {
+                "Study": true,
+                "Play": "Games",
+                "Tp": true,
+                "Eating": "Most of the widely accepted foods that is poms eat......"
+            }
+        },
+        "Suraj": {
+            "daily_Routine": {
+                "Study": true,
+                "games": "BGMI And COC",
+                "Tp": false,
+                "Eating": "Mostly eat healthy foods like ->  fruits and vegies"
+            }
+        }
+    }
+]
